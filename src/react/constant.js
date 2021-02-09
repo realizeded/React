@@ -1,1 +1,0 @@
-export const ELEMENT_TEXT = Symbol.for('element-text');

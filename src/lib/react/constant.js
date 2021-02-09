@@ -1,0 +1,9 @@
+export const ELEMENT_TEXT = Symbol.for('ELEMENT_TEXT')
+export const TAG_ROOT = Symbol.for('TAG_ROOT')
+export const TAG_HOST = Symbol.for('TAG_HOST')
+export const TAG_TEXT = Symbol.for('TAG_TEXT')
+export const TAG_COMPONENT_CLASS = Symbol.for('TAG_COMPONENT_CLASS');
+export const TAG_COMPONENT_FUNCTION = Symbol.for('TAG_COMPONENT_FUNCTION')
+export const APPEND = Symbol.for('APPEND')
+export const DELETION = Symbol.for('DELETION')
+export const UPDATION = Symbol.for('UPDATION')
